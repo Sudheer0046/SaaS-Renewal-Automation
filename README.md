@@ -28,7 +28,9 @@ The flow automatically:
 
 The Excel file must be formatted as a table (crtl+t) :
 
-Attached the excel
+## 📊 Sample Data File
+
+[Download Excel File](SaaSTracker.xlsx)
 
 ---
 
