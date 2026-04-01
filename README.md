@@ -2,6 +2,10 @@
 
 ## 📌 Overview
 
+
+I automated SaaS renewal notifications using Power Automate. 
+The workflow reads renewal data from SharePoint/Excel, checks expiry conditions, and sends alerts via email and Microsoft Teams before the renewal date.
+
 This project automates the SaaS/software renewal approval process using Microsoft Power Automate and Excel (stored in SharePoint/OneDrive).
 
 The flow automatically:
