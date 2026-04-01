@@ -30,6 +30,7 @@ The Excel file must be formatted as a table (crtl+t) :
 
 ## 📊 Sample Data File
 
+ Click here to view Excel file:
 [Download Excel File](SaaSTracker.xlsx)
 
 ---
