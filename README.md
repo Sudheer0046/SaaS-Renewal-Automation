@@ -11,7 +11,7 @@ The flow automatically:
 * Updates renewal status based on approval/rejection
 * Maintains approval history
 * Captures manager comments
-* Automatically extends renewal dates
+* Automatically extends renewal dates (adding +30days)
 
 ---
 
@@ -20,21 +20,15 @@ The flow automatically:
 * Microsoft Power Automate
 * Excel (OneDrive / SharePoint)
 * Outlook (Email Notifications)
+* Teams (Notifications)
 
 ---
 
 ## 📊 Excel Structure
 
-The Excel file must be formatted as a table with the following columns:
+The Excel file must be formatted as a table (crtl+t) :
 
-| Column Name      | Description                                 |
-| ---------------- | ------------------------------------------- |
-| Software Name    | Name of the software                        |
-| Renewal Date     | Current renewal date                        |
-| Status           | Pending / In Approval / Approved / Rejected |
-| Manager Email    | Email ID of approver                        |
-| Manager Comments | Comments provided during approval           |
-| Approval History | Tracks monthly approval logs                |
+Attached the excel
 
 ---
 
